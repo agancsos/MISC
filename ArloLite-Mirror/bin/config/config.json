@@ -1,0 +1,5 @@
+{
+    "version":"1.0.0",
+    "traceLevel":"3",
+    "baseEndpoint":"https://arlo.netgear.com/hmsweb"
+}
